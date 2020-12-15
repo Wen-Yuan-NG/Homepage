@@ -1,7 +1,7 @@
 ---
 title: Naixu Guo
 role: Master student of Quantum Computing
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include quantum algorithms, machine learning and
   quantum many body theory.
 interests:
