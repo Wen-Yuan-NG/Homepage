@@ -33,6 +33,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Naixu Guo is now a master student at Osaka University with Keisuke Fujii as his advisor. He graduated from Kyoto University in 2020 with a physics background, and his research interests include quantum computing, condensed matter theory and machine learning theory. 
+Naixu Guo is now a master student at Osaka University with Keisuke Fujii as the advisor. He graduated from Kyoto University in 2020, and his academic interests include quantum computing, condensed matter theory and machine learning theory. 
 
-He has been studying the Chinese traditional instrument Guqin under Muka Fushimi since 2017. His financial funding is from the Hirose foundation.
+Naixu has been studying the Chinese traditional instrument Guqin under Muka Fushimi since 2017. He is financially supported by the Hirose Foundation.
