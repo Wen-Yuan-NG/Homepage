@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Major in Quantum Computing
         
-  - title: Undergraduate
+  - title: Bachelor
     company: Kyoto U
     company_url: ''
     location: Kyoto
